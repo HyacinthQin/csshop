@@ -7,10 +7,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>csshop Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-	<properties>
-		<spring.version>4.3.7.RELEASE</spring.version>
-	</properties>
-
+	
+	
 
 	<dependencies>
 		<!-- 单元测试 -->
